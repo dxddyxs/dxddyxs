@@ -1,14 +1,28 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
 
-### Olá! eu sou o daddy, aqui você encontrará um registro da minha jornada de aprendizado e crescimento na programação desde os primeiros passos até os projetos mais avançados.
+Iniciante em programação e pretendo ser dev full-stack ou um dev back-end
 
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d.liisboa/)
 
-![Dxddyxs GitHub stats](https://github-readme-stats.vercel.app/api?username=dxddyxs&show_icons=true&theme=dark)
+## Social
+<div align="center">  
+<a href="https://www.instagram.com/d.liisboa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
 
-## Minhas Skills
+## Skills 🚀
+![Tech](https://skills.thijs.gg/icons?i=python)
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+## Futuros Aprendizados📚 
+![Tech](https://skills.thijs.gg/icons?i=ruby,javascript,php,java,c#)
 
-irei postar a maioria dos meus exercicios/projetos e estou disposto a aprender mais e receber dicas.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dxddyxs&show_icons=true&count_private=true&hide_border=true&title_color=9400d3&icon_color=9400d3&text_color=c9d1d9&bg_color=0d1117" alt="daddy github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxddyxs&layout=compact&hide_border=true&title_color=9400d3&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dxddyxs&bg_color=000000&color=9400d3&line=9400d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dxddyxs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=100&section=footer"/>
