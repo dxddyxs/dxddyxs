@@ -9,7 +9,7 @@ Iniciante em programação e pretendo ser dev full-stack ou um dev back-end
 </div>
 
 ## Skills 🚀
-![Tech](https://skills.thijs.gg/icons?i=python)
+![Tech](https://skills.thijs.gg/icons?i=python,css,html,js)
 
 ## Futuros Aprendizados📚 
 ![Tech](https://skills.thijs.gg/icons?i=ruby,c#)
