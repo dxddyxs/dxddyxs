@@ -11,7 +11,7 @@ Beginner in Front-End but aiming to be a Full-Stack Dev
 ## Skills 🚀
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-## Futuros Aprendizados📚 
+## Future Learnings 📚 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 <div align="center">  
