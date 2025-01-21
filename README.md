@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
 
-Beginner in Front-End but aiming to be Full-Stack
+Beginner in Front-End but aiming to be a Full-Stack Dev
 
 
 ## Social
