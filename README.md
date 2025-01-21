@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
 
-Iniciante em programação e pretendo ser dev full-stack ou um dev back-end
+Beginner in Front-End but aiming to be Full-Stack
 
 
 ## Social
