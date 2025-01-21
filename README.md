@@ -8,10 +8,10 @@ Beginner in Front-End but aiming to be a Full-Stack Dev
 <a href="https://www.instagram.com/d.liisboa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
 
-## Skills 🚀
+## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
-## Future Learnings 📚 
+## Future Learnings
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 <div align="center">  
