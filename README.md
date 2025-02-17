@@ -13,6 +13,7 @@ Beginner in Front-End but aiming to be a Full-Stack Dev
 
 ## Future Learnings
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dxddyxs&show_icons=true&count_private=true&hide_border=true&title_color=9400d3&icon_color=9400d3&text_color=c9d1d9&bg_color=0d1117" alt="daddy github stats" /> 
