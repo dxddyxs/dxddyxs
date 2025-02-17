@@ -22,8 +22,4 @@ Beginner in Front-End but aiming to be a Full-Stack Dev
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dxddyxs&bg_color=000000&color=9400d3&line=9400d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dxddyxs&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=100&section=footer"/>
