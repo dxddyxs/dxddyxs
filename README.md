@@ -20,6 +20,4 @@ Beginner in Front-End but aiming to be a Full-Stack Dev
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxddyxs&layout=compact&hide_border=true&title_color=9400d3&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dxddyxs&bg_color=000000&color=9400d3&line=9400d3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=100&section=footer"/>
