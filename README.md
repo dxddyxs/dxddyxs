@@ -6,7 +6,6 @@
 ## Social
 <div align="center">  
 <a href="https://www.instagram.com/d.liisboa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://open.spotify.com/user/31m6filt2xcy4fb75fzv7aygbbna?si=9a1db560c3e749d9" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%23e440?style=for-the-badge&logo=Spotify&logoColor=white"</a>
 </div>
 
 ## Skills
