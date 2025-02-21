@@ -4,7 +4,7 @@
 
 
 ## Social
-<a href="https://www.instagram.com/d.liisboa/" target="_blank">[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/d.liisboa/)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
