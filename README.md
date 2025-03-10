@@ -4,7 +4,6 @@
 
 
 ## Social
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/d.liisboa/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/invite/Cb26sXKqV4)
 
 ## Skills
