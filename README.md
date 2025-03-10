@@ -11,6 +11,7 @@
 
 ## Future Learnings
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 
 ## Statistic
 <div align="center">  
