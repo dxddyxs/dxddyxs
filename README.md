@@ -21,11 +21,11 @@
  <br clear="both"/>
  
  <div align="center">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake-dark.svg" />
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake.svg" />
-     <img src="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake.svg" alt="Snake animation" />
-   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/dxddyxs/dxddyxs/output/snake.svg" alt="Snake animation" />
+  </picture>
  </div>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=100&section=footer"/>
