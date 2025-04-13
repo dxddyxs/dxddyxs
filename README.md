@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9400d3"/>
  
  <div align="center">
   <h3>cench</h3>
