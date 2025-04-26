@@ -2,5 +2,5 @@
  
  <div align="center">
   <h3>ad fines mortuorum.</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
  </div>
